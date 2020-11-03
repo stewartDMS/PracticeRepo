@@ -3,3 +3,7 @@ Hello this is gitPrac to test pulling and merging
 Update
 
 is this working?
+
+Second Update
+
+Is the changes be applied yet?
