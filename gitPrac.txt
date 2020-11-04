@@ -20,4 +20,7 @@ update 1
 
 update 2
 
-new update on github - dani.. testing pull/fetch command
+new update on github - dani.. fetch command
+
+
+update testing pull command
