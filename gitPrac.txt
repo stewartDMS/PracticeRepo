@@ -13,3 +13,10 @@ Third Update
 Changes have been applied
 
 danica new changes 
+
+practicing git again - danica
+
+update 1
+
+update 2
+
